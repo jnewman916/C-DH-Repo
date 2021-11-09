@@ -1,0 +1,1 @@
+"../MSP-EXP430F5438 HAL/RTCASMFunctions_CCE.s43" "../MSP-EXP430F5438 HAL/hal_adc.c" "../MSP-EXP430F5438 HAL/hal_board.c" "../MSP-EXP430F5438 HAL/hal_buttons.c" "../MSP-EXP430F5438 HAL/hal_lcd.c" "../MSP-EXP430F5438 HAL/hal_rf.c" "../MSP-EXP430F5438 HAL/hal_usb.c" 
