@@ -1,7 +1,11 @@
+#include <SoftwareSerial.h>
+
 int LED = 8;
 int SEN = A0;
 int data = 0;
 char cmd;
+
+//SoftwareSerial ser1(2,3);
 
 void setup() {
   // put your setup code here, to run once:
