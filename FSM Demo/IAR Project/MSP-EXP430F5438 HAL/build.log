@@ -1,0 +1,364 @@
+   0 bytes of DATA  memory (+ 8 bytes shared)
+
+Errors: none
+Warnings: none
+
+RTCASMFunctions_IAR.s43
+a430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\RTCASMFunctions_IAR.s43 -Oc:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ -s+ -M<> -w+ -r -D__MSP430F5438__ -v1 -IC:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\INC\
+ 
+ 558 bytes of CODE  memory
+  58 bytes of CONST memory
+   9 bytes of DATA  memory (+ 4 bytes shared)
+
+Errors: none
+Warnings: 1
+
+hal_adc.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_adc.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_board.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_board.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+ 
+ 694 bytes of CODE memory
+   0 bytes of DATA memory (+ 66 bytes shared)
+
+Errors: none
+Warnings: none
+
+hal_buttons.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_buttons.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+ 
+ 60 bytes of CODE memory
+  0 bytes of DATA memory (+ 16 bytes shared)
+
+Errors: none
+Warnings: none
+
+hal_lcd.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_lcd.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_rf.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_rf.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_usb.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_usb.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+RTCASMFunctions_IAR.s43
+a430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\RTCASMFunctions_IAR.s43 -Oc:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ -s+ -M<> -w+ -r -D__MSP430F5438__ -v1 -IC:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\INC\
+
+hal_adc.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_adc.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+ 
+ 1 198 bytes of CODE  memory
+     5 bytes of CONST memory (+  2 bytes shared)
+    33 bytes of DATA  memory (+ 27 bytes shared)
+
+
+hal_buttons.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_buttons.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_lcd.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_lcd.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+ 
+ 2 736 bytes of CODE  memory
+ 2 397 bytes of CONST memory
+ 3 872 bytes of DATA  memory (+ 34 bytes shared)
+
+Errors: none
+Warnings: none
+
+hal_rf.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_rf.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_usb.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_usb.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm.h(16) : Error[Pe011]: unrecognized preprocessing directive
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm.h(17) : Error[Pe011]: unrecognized preprocessing directive
+
+Errors: 2
+Warnings: none
+Error while running C/C++ compiler
+
+RTCASMFunctions_IAR.s43
+a430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\RTCASMFunctions_IAR.s43 -Oc:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ -s+ -M<> -w+ -r -D__MSP430F5438A__ -v1 -IC:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\INC\
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.h(33) : Error[Pe020]: identifier "uint8_t" is undefined
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.h(34) : Error[Pe020]: identifier "uint8_t" is undefined
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm.h(16) : Error[Pe011]: unrecognized preprocessing directive
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm.h(17) : Error[Pe011]: unrecognized preprocessing directive
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm.h(25) : Error[Pe020]: identifier "uint8_t" is undefined
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm.h(28) : Error[Pe020]: identifier "uint8_t" is undefined
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(26) : Error[Pe146]: too many initializer values
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(30) : Error[Pe020]: identifier "uint8_t" is undefined
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(51) : Error[Pe020]: identifier "uint8_t" is undefined
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(86) : Error[Pe020]: identifier "uint8_t" is undefined
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(87) : Error[Pe020]: identifier "uint8_t" is undefined
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(89) : Error[Pe020]: identifier "uint8_t" is undefined
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(92) : Warning[Pe223]: function "srand" declared implicitly
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(102) : Warning[Pe223]: function "rand" declared implicitly
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(89) : Warning[Pe177]: variable "DefVal" was declared but never referenced
+
+Errors: 12
+Warnings: 3
+Error while running C/C++ compiler
+
+hal_adc.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_adc.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_board.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_board.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_buttons.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_buttons.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_lcd.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_lcd.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_rf.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_rf.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_usb.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_usb.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+ 
+ 218 bytes of CODE  memory
+   0 bytes of CONST memory (+  2 bytes shared)
+ 256 bytes of DATA  memory (+ 15 bytes shared)
+
+Errors: none
+Warnings: none
+ 276 bytes of CODE  memory
+   0 bytes of CONST memory (+ 2 bytes shared)
+   0 bytes of DATA  memory (+ 8 bytes shared)
+
+Errors: none
+Warnings: none
+
+RTCASMFunctions_IAR.s43
+a430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\RTCASMFunctions_IAR.s43 -Oc:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ -s+ -M<> -w+ -r -D__MSP430F5438A__ -v1 -IC:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\INC\
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(26) : Error[Pe146]: too many initializer values
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(92) : Warning[Pe223]: function "srand" declared implicitly
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(102) : Warning[Pe223]: function "rand" declared implicitly
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(89) : Warning[Pe177]: variable "DefVal" was declared but never referenced
+
+Errors: 3
+Warnings: 3
+Error while running C/C++ compiler
+
+hal_adc.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_adc.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_board.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_board.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+ 
+ 694 bytes of CODE memory
+   0 bytes of DATA memory (+ 66 bytes shared)
+
+Errors: none
+Warnings: none
+
+hal_buttons.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_buttons.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_lcd.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_lcd.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+
+hal_rf.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_rf.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+ 
+ 792 bytes of CODE  memory
+  34 bytes of CONST memory
+   4 bytes of DATA  memory (+ 17 bytes shared)
+
+Errors: none
+Warnings: none
+
+hal_usb.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_usb.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+RTCASMFunctions_IAR.s43
+a430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\RTCASMFunctions_IAR.s43 -Oc:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ -s+ -M<> -w+ -r -D__MSP430F5438A__ -v1 -IC:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\INC\
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(102) : Warning[Pe223]: function "rand" declared implicitly
+c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\UserExperienceDemo\fsm_transition.c(89) : Warning[Pe177]: variable "DefVal" was declared but never referenced
+ 
+ 558 bytes of CODE  memory
+  58 bytes of CONST memory
+   9 bytes of DATA  memory (+ 4 bytes shared)
+
+Errors: none
+Warnings: 3
+
+hal_adc.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_adc.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_board.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_board.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+ 
+ 694 bytes of CODE memory
+   0 bytes of DATA memory (+ 66 bytes shared)
+
+Errors: none
+Warnings: none
+
+hal_buttons.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_buttons.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+ 
+ 60 bytes of CODE memory
+  0 bytes of DATA memory (+ 16 bytes shared)
+
+Errors: none
+Warnings: none
+
+hal_lcd.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_lcd.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+ 
+ 2 736 bytes of CODE  memory
+ 2 397 bytes of CONST memory
+ 3 872 bytes of DATA  memory (+ 34 bytes shared)
+
+Errors: none
+Warnings: none
+
+hal_rf.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_rf.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+ 
+ 792 bytes of CODE  memory
+  34 bytes of CONST memory
+   4 bytes of DATA  memory (+ 17 bytes shared)
+
+Errors: none
+Warnings: none
+
+hal_usb.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_usb.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+ 
+ 276 bytes of CODE  memory
+   0 bytes of CONST memory (+ 2 bytes shared)
+   0 bytes of DATA  memory (+ 8 bytes shared)
+
+Errors: none
+Warnings: none
+
+RTCASMFunctions_IAR.s43
+a430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\RTCASMFunctions_IAR.s43 -Oc:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ -s+ -M<> -w+ -r -D__MSP430F5438A__ -v1 -IC:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\INC\
+
+hal_adc.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_adc.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_board.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_board.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_buttons.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_buttons.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+ 
+ 60 bytes of CODE memory
+
+hal_lcd.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_lcd.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_rf.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_rf.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
+
+hal_usb.c 
+icc430.exe c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\MSP-EXP430F5438 HAL\hal_usb.c -o c:\Documents and Settings\a0196876\My Documents\_Docs\AppReports\StateMachine\slaa402_update_2\slaa402_update\FSM Demo\IAR Project\Debug\Obj\ --no_cse --no_unroll --no_inline --no_code_motion --no_tbaa --debug -D__MSP430F5438A__ -e --double=32 --dlib_config C:\Program Files\IAR Systems\Embedded Workbench 6.0_5.30_full\430\LIB\DLIB\dl430xlfn.h --core=430X --data_model=large -Ol --multiplier=32 --multiplier_location=4C0 --hw_workaround=CPU40
+   
+   IAR C/C++ Compiler V5.30.3.50305/W32 for MSP430
+   Copyright 1996-2011 IAR Systems AB. 
